@@ -23,7 +23,5 @@ class ProductManagement{
         }
         return false;
     }
-
-
-
 }
+export{product, ProductManagement}
