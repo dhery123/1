@@ -1,0 +1,23 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "Project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dhery123/1.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Dhery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhery123/1/issues"
+  },
+  "homepage": "https://github.com/dhery123/1#readme"
+}
